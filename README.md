@@ -17,7 +17,7 @@ Ini adalah sebuah website undangan pernikahan modern yang dibuat menggunakan **R
 
 ## Demo
 
-Klik [di sini](#https://weeding-invitation-rahayu.vercel.app/) untuk melihat demo website undangan pernikahan ini. *(ganti dengan link demo Anda)*
+Klik [di sini](https://weeding-invitation-rahayu.vercel.app/) untuk melihat demo website undangan pernikahan ini. *(ganti dengan link demo Anda)*
 
 ## Ingin Membuat Website Undangan Pernikahan?
 
